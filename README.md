@@ -20,8 +20,9 @@
 ## 🛠️ Tech Stack
 
 ### 💻 Backend
-- Java | Core Java | OOPs | Collection Framework
-- JDBC | Servlets | JSP  
+- Java | Core Java | OOPs | Collection Framework |Multithreading
+- JDBC | Servlets | JSP
+- Hibernate
 - Spring (Learning) | Spring Boot (Roadmap)
 
 ### 🌐 Frontend
