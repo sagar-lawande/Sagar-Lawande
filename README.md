@@ -52,7 +52,7 @@
 
 ## 📂 Featured Projects
 
-### 🏦 Bank Management System (Java)
+### 🏦 CNG Booking and CNG Pump Management(Java)
 - Console-based application
 - OOP concepts, Exception Handling
 - Real-world banking logic
