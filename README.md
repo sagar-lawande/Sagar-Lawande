@@ -52,12 +52,12 @@
 
 ## 📂 Featured Projects
 
-### 🏦 CNG Booking and CNG Pump Management(Java)
+### ⛽EcoFuel Hub – Smart Fuel Booking & Pump Scheduling Platform(Java)
 - Console-based application
 - OOP concepts, Exception Handling
-- Real-world banking logic
+- Real-world Logic
 
-### 📚 Student Management System
+### 🚕RideFlow – On-Demand Cab Booking & Driver Allocation Platform
 - Java + JDBC + MySQL
 - Complete CRUD operations
 - Modular and scalable design
