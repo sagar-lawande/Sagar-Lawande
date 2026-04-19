@@ -78,6 +78,6 @@
 
 - 💼 LinkedIn: https://www.linkedin.com/in/sagar-lawande-a967a9313/
 - 📧 Email: sagarlawande44@gmail.com
-- 🌐 Portfolio (future-ready)
+- 🌐 Portfolio: https://sagarlawande.netlify.app/
 
 ---
