@@ -68,7 +68,7 @@
 
 ## 📊 GitHub Stats
 
-![Sagar's GitHub stats](https://github-readme-stats.vercel.app/api?username=sagar-lawande&show_icons=true&theme=tokyonight)
+![Sagar's GitHub stats](https://github-readme-stats.vercel.app/api?username=sagar-jadhav&show_icons=true&theme=tokyonight)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sagar-jadhav&layout=compact&theme=tokyonight)
 
