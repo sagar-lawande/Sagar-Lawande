@@ -26,15 +26,17 @@
 - Spring (Learning) | Spring Boot (Roadmap)
 
 ### 🌐 Frontend
-- HTML5 | CSS3 | JavaScript  
+- HTML5 | CSS3 | JavaScript | React
+- Thymeleaf
 - Bootstrap (Basics)
 
 ### 🗄️ Database
-- MySQL  
+- MySQL
+- MongoDB
 - SQL Queries | Joins | CRUD Operations
 
 ### ⚙️ Tools & Platforms
-- Git & GitHub  
+- Git & GitHub 
 - Eclipse | VS Code | Intellij IDEA 
 - Apache Tomcat
 - XAMP 
